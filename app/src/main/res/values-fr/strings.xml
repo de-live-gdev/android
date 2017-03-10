@@ -2,20 +2,9 @@
 <resources>
 
     <!-- WebApp -->
-    <string name="app_name" translatable="false">Kimai</string>
-    <string name="app_name2" translatable="false">Kimai Time Tracker</string>
-    <string name="shared_pref" translatable="false">de.live.gdev.timetracker</string>
     <string name="info_author">programmé par Gregor Santner\ngsantner AT mailbox DOT org\ngsantner.github.io</string>
-    <string name="info_additionalContact" translatable="false">Kimai Homepage</string>
-    <string name="page_additional_homepage" translatable="false">http://www.kimai.org/</string>
-    <string name="page_additional_homepage_short" translatable="false">kimai.org/</string>
-    <string name="page_versioning" translatable="false">https://github.com/gsantner/kimai-android/blob/master/README.md</string>
-    <string name="page_author" translatable="false">https://gsantner.github.io/</string>
 
     <!-- All other strings -->
-    <string name="title_activity_settings" translatable="false">@string/action_settings</string>
-    <string name="title_activity_info" translatable="false">@string/action_info</string>
-
     <string name="action_settings">Réglages</string>
     <string name="action_login">Login</string>
     <string name="action_info">À Propos</string>
@@ -37,12 +26,8 @@
     <string name="webapp_profile_2">Profil 2</string>
     <string name="webapp_profile_3">Profil 3</string>
     <string name="text_webapp_path">Chemin vers Kimai :</string>
-    <string name="text_hint_path_webapp" translatable="false">https://ourpage.org/kimai</string>
-    <string name="webapp_default_filename" translatable="false">index.php</string>
-    <string name="edit_webapp_username_hint">Nom d\'utilisateur :/string>
+    <string name="edit_webapp_username_hint">Nom d\'utilisateur :</string>
     <string name="text_hint_webapp_password">Mot de passe</string>
-    <string name="android_app" translatable="false">Android App</string>
-    <string name="blog" translatable="false">Blog</string>
     <string name="action_donate_bitcoin">Faire un don en Bitcoin</string>
 
 </resources>
