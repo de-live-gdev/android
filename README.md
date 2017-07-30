@@ -9,7 +9,7 @@ Android app created and maintained by Gregor Santner (<https://gsantner.github.i
 <span class="badge-bitcoin"><a href="https://gsantner.github.io/donate/#donate" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate button" /></a></span>
 
 <p align="left">
-<a href="https://f-droid.org/packages/de.live.gdev.timetracker/">
+<a href="https://f-droid.org/repository/browse/?fdid=de.live.gdev.timetracker">
     <img alt="Get it on F-Droid"
         height="80"
         src="https://f-droid.org/badge/get-it-on.png" />
