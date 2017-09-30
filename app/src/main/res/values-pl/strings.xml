@@ -38,7 +38,7 @@
     <string name="project_team">Zespół projektu</string>
     <string name="licenses">Licencje</string>
     <string name="show_app_license">Pokaż licencję aplikacji</string>
-    <string name="show_third_party_licenses">Pokaż licencje firm trzecich</string>
+    <string name="show_third_party_licenses">Pokaż licencje dzieł osób trzecich</string>
     <string name="pref_title__language">Język</string>
     <string name="pref_desc__language">Zmienia język aplikacji. Zrestartuj aplikację żeby wprowadzić zmiany</string>
 </resources>
